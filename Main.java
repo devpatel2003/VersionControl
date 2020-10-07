@@ -4,4 +4,8 @@ class Main {
   }
 }
 
+<<<<<<< HEAD
 //tejas was here
+=======
+//Hey Mahtab was here
+>>>>>>> origin/master
